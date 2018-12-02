@@ -15,4 +15,4 @@ The application is built with vue.js, truffle, and ethereum; application can be 
 4. In the **first** terminal run the following command `npm run dev` this will start your application 
 
 ### Sample screen shot
-![alt text](https://raw.githubusercontent.com/mehranhydary/signing-ethereum-messages/signing-tx-cli/static/sample-screen.png)
+![alt text](https://raw.githubusercontent.com/mehranhydary/signing-ethereum-messages/master/signing-tx-cli/static/sample-screen.png)
